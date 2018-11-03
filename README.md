@@ -3,5 +3,5 @@ Demo de git pour premier test
 
 2ème ligne de texte
 
-Ajout d'une ligne depuis Github
+Ajout d'une ligne depuis Github et c'est cool
 
